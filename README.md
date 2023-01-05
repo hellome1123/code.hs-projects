@@ -3,13 +3,4 @@ school project
 
 
 day 1 (1/4/2023)
-
-projects to work on 
-hangman (almost done)
-
-Project i have 
-  snake
-  typing game
-  tetris 
-  pong
-  calculator 
+going threw what i have made in the past and imported a few older projects and did some wraping up and debugging on code.hs 
