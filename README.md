@@ -8,7 +8,8 @@ Day 1 (1/4/2023)
 
 Day 2 (1/5/2023)
 1. Debugging all projects 
-2. Looking into working on a few new projects 
+2. Looking into working on a few new projects
+   # made tic tac toe and connect 4 
 
 
 
