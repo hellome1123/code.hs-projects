@@ -14,6 +14,10 @@ Day 2 (1/5/2023)
 Day 3 (1/6/2023)
 1. Debugging projects 
 2. made note.py 
+
+
+Day 4 (1/7/2023)
+1. made flappy bird 
  
 
 
