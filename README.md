@@ -25,7 +25,6 @@ Day 4 (1/9/2023)
 
 Day 5 (1/10
 /2023)
-1. made a horror game 
-2. https://github.com/hellome1123/terra
+
 
 
