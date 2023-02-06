@@ -26,6 +26,9 @@ Day 4 (1/9/2023)
 Day 5 (1/18/2023)
 1. made chinese chess
 
+Day 6 (2/6/2023)
+1.had a little rest and came back with sydo.py
+
 
 
 
