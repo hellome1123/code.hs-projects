@@ -29,6 +29,11 @@ Day 5 (1/18/2023)
 Day 6 (2/6/2023)
 1. had a little rest and came back with sydo.py
 
+Day 7 (3/2/2023)
+1. came back from a rest and debugged and worked on some project 
+2. made a big improvemet with cash.py by getting rid of the card games due to it keep crashing and not running
+3. getting ready for the april fools code so far have (rick roll browser spam.py)
+
 
 
 
