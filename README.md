@@ -40,6 +40,17 @@ Day 7 (3/2/2023)
 5. finish off with jarvis ai (sill with lots of bugs working on getting rid of admin acsess) looking into importing into a standalone machine(amazon alexa or cromecast ) sill thinking what to use and seeing how to import into a mashine 
 6. improveing jarvis ai to have more voises insted of mine 
 
+Day 8 (4/28/2023)
+1. came back from a rest and debugged and worked on some project 
+2. made a big improvemet with jarvis ai 
+3. somewhat working with standalone masine 
+4. de bugging codes with my code fixer 
+5. debugging off with jarvis ai (sill with lots of bugs working on fixed adman acsess)
+6. improveing jarvis ai to have more voises insted of mine "not working"
+7. THBC not working
+8. fixed cash
+
+
 
 
 
