@@ -49,6 +49,8 @@ Day 8 (4/28/2023)
 6. improveing jarvis ai to have more voises insted of mine "not working"
 7. THBC not working
 8. fixed cash
+9. added speach rec on jarvis ai
+
 
 
 
